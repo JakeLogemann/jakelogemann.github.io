@@ -1,0 +1,42 @@
+baseURL = "https://lgmn.io/"
+languageCode = "en-us"
+title = "Lgmn.io"
+theme = "anatole"
+
+[menu]
+
+  [[menu.main]]
+  name = "Home"
+  identifier = "home"
+  weight = 100
+  url = "/"
+
+  [[menu.main]]
+  name = "Posts"
+  weight = 200
+  identifier = "posts"
+  url = "/post/"
+
+  [[menu.main]]
+  name = "About"
+  weight = 300
+  identifier = "about"
+  url = "/about/"
+
+[params]
+title = "Jake Logemann"
+author = "Jacob Logemann"
+description = "Hello! Please excuse the mess."
+profilePicture = "images/profile.png"
+displayMode = "dark"
+doNotLoadAnimations = false # Animations are loaded by default
+singleDateFormat = "Mon, Jan 2, 2006"
+indexDateFormat = "Mon, Jan 2, 2006"
+listDateFormat = "Jan 2"
+pygmentsCodeFences = true
+pygmentsUseClasses = true
+customCss = ["css/syntax.css"]
+
+[params.math]
+enable = false  # options: true, false. Enable math support globally, default: false. You can always enable math on per page.
+use = "katex"  # options: "katex", "mathjax". default is "katex".
