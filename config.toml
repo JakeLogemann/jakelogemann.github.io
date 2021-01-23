@@ -35,7 +35,7 @@ indexDateFormat = "Mon, Jan 2, 2006"
 listDateFormat = "Jan 2"
 pygmentsCodeFences = true
 pygmentsUseClasses = true
-customCss = ["css/syntax.css"]
+customCss = ["css/syntax.css", "fontawesome/css/all.min.css"]
 
 [params.math]
 enable = false  # options: true, false. Enable math support globally, default: false. You can always enable math on per page.
