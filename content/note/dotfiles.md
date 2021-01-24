@@ -27,9 +27,10 @@ will help someone else in the future.
 - **[`ranger`]** is an _extremely configurable_ [Python]-based command-line file manager with vim-like keybinds.
 - **[`rg`]** is great alternative to [`find`]/[`grep`], writen in [Rust]. Very fast, [more user-friendly][ripgrep's User Guide]. 
 - **[`sk`]** is a [Rust]-based alternative to [`fzf`] _(which is perfectly great! I just have [`cargo`] installed everywhere)_. Very fast, minimal resource usage. 
+- **[`starship`]** is a great, fast, pre-compiled terminal prompt (binary). [Give it a shot][starship.rs]... you might never go back..
+- **[`terraform`]** is the nicest, laziest way to manage your cloud infrastructure across multiple providers (like [DigitalOcean]!).
 - **[`tmux-thumbs`]** is a great way to copy&paste things in [tmux]. Written in [Rust].
 - **[`tmux`]** is a terminal multiplexer. Useful for peristing terminal applications (such as [ncspot]) while doing other things. 
-- **[`terraform`]** is the nicest, laziest way to manage your cloud infrastructure across multiple providers (like [DigitalOcean]!).
 
 [DigitalOcean]: https://m.do.co/c/7201eed99612
 [Lua]: https://www.lua.org
@@ -37,6 +38,8 @@ will help someone else in the future.
 [Python]: https://python.org
 [Rust]: https://rust-lang.org
 [`alacritty`]: https://github.com/alacritty/alacritty
+[`starship`]: https://github.com/starship/starship.
+[starship.rs]: https://starship.rs
 [`find`]: https://man7.org/linux/man-pages/man1/find.1.html
 [`fzf`]: https://github.com/junegunn/fzf
 [`grep`]: https://man7.org/linux/man-pages/man1/grep.1.html
