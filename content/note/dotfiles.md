@@ -29,7 +29,7 @@ will help someone else in the future.
 - **[`sk`]** is a [Rust]-based alternative to [`fzf`] _(which is perfectly great! I just have [`cargo`] installed everywhere)_. Very fast, minimal resource usage. 
 - **[`starship`]** is a great, fast, pre-compiled terminal prompt (binary). Give it a shot... you might never go back. _(website: [starship.rs])_
 - **[`terraform`]** is the nicest, laziest way to manage your cloud infrastructure across multiple providers (like [DigitalOcean]!).
-- **[`tmux-thumbs`]** is a great way to copy&paste things in [tmux]. Written in [Rust].
+- **[`tmux-thumbs`]** is a great way to copy&paste things in [`tmux`]. Written in [Rust].
 - **[`tmux`]** is a terminal multiplexer. Useful for peristing terminal applications (such as [`ncspot`]) while doing other things. 
 
 [DigitalOcean]: https://m.do.co/c/7201eed99612
