@@ -3,6 +3,17 @@ languageCode = "en-us"
 title = "Lgmn.io"
 theme = "anatole"
 copyright = "Work of Jacob Logemann. All rights reserved."
+enableEmoji = true
+enableGitInfo = true
+enableInlineShortcodes = true
+enableRobotsTXT = true
+buildDrafts = false
+buildExpired = false
+buildFuture = false
+defaultContentLanguage = "en"
+googleAnalytics = "G-ZQ19LB23FP"
+disableHugoGeneratorInject = true
+disableKinds = ["RSS"]
 
 [menu]
 
@@ -23,6 +34,42 @@ copyright = "Work of Jacob Logemann. All rights reserved."
   weight = 300
   identifier = "about"
   url = "/about/"
+
+[markup]
+[markup.goldmark]
+[markup.goldmark.extensions]
+definitionList = true
+footnote = true
+linkify = true
+strikethrough = true
+table = true
+taskList = true
+typographer = true
+[markup.goldmark.parser]
+attribute = true
+autoHeadingID = true
+autoHeadingIDType = "github"
+[markup.goldmark.renderer]
+hardWraps = false
+unsafe = false
+xhtml = false
+[markup.highlight]
+anchorLineNos = true
+codeFences = true
+guessSyntax = false
+hl_Lines = ""
+lineAnchors = ""
+lineNoStart = 1
+lineNos = false
+lineNumbersInTable = true
+noClasses = true
+style = "monokai"
+tabWidth = 2
+[markup.tableOfContents]
+endLevel = 3
+ordered = false
+startLevel = 2
+
 
 [params]
 title = "LGMN.io"
