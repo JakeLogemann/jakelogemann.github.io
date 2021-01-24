@@ -49,6 +49,7 @@ will help someone else in the future.
 [`rg`]: https://github.com/BurntSushi/ripgrep
 [`sk`]: https://github.com/lotabout/skim
 [`terraform`]: https://terraform.io
+[`cargo`]: https://github.com/rust-lang/cargo
 [`tmux-thumbs`]: https://github.com/fcsonline/tmux-thumbs
 [`tmux`]: https://github.com/tmux/tmux
 [dotfiles.nvim]: https://github.com/JakeLogemann/dotfiles.nvim
