@@ -38,6 +38,7 @@ pygmentsCodeFences = true
 pygmentsUseClasses = true
 customCss = ["css/syntax.css", "fontawesome/css/svg-with-js.min.css"]
 customJs = ["fontawesome/js/all.min.js"]
+digitaloceanReferralLink = "https://m.do.co/c/7201eed99612"
 
 [params.math]
 enable = false  # options: true, false. Enable math support globally, default: false. You can always enable math on per page.
