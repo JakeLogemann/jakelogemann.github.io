@@ -38,7 +38,7 @@ will help someone else in the future.
 [Python]: https://python.org
 [Rust]: https://rust-lang.org
 [`alacritty`]: https://github.com/alacritty/alacritty
-[`starship`]: https://github.com/starship/starship.
+[`starship`]: https://github.com/starship/starship
 [starship.rs]: https://starship.rs
 [`find`]: https://man7.org/linux/man-pages/man1/find.1.html
 [`fzf`]: https://github.com/junegunn/fzf
