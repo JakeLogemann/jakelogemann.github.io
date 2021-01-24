@@ -83,7 +83,7 @@ indexDateFormat = "Mon, Jan 2, 2006"
 listDateFormat = "Jan 2"
 pygmentsCodeFences = true
 pygmentsUseClasses = true
-customCss = ["css/syntax.css", "fontawesome/css/svg-with-js.min.css"]
+customCss = ["css/tweaks.css", "css/syntax.css", "fontawesome/css/svg-with-js.min.css"]
 customJs = ["fontawesome/js/all.min.js"]
 digitaloceanReferralLink = "https://m.do.co/c/7201eed99612"
 

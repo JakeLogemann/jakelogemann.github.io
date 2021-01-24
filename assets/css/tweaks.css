@@ -1,0 +1,8 @@
+/* these should be migrated into my (now) custom fork of anatole. */
+body {
+    line-height: 1.66;
+    text-rendering: geometricPrecision;
+    font-kerning: auto;
+    font-size-adjust: 0.55;
+    font-optical-sizing: auto;
+}
