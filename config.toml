@@ -12,10 +12,10 @@ theme = "anatole"
   url = "/"
 
   [[menu.main]]
-  name = "Posts"
+  name = "Notes"
   weight = 200
-  identifier = "posts"
-  url = "/post/"
+  identifier = "notes"
+  url = "/notes/"
 
   [[menu.main]]
   name = "About"
@@ -35,7 +35,8 @@ indexDateFormat = "Mon, Jan 2, 2006"
 listDateFormat = "Jan 2"
 pygmentsCodeFences = true
 pygmentsUseClasses = true
-customCss = ["css/syntax.css", "fontawesome/css/all.min.css"]
+customCss = ["css/syntax.css", "fontawesome/css/svg-with-js.min.css"]
+customJs = ["fontawesome/js/all.min.js"]
 
 [params.math]
 enable = false  # options: true, false. Enable math support globally, default: false. You can always enable math on per page.
