@@ -2,6 +2,7 @@ baseURL = "/"
 languageCode = "en-us"
 title = "Lgmn.io"
 theme = "anatole"
+copyright = "Work of Jacob Logemann. All rights reserved."
 
 [menu]
 
@@ -24,9 +25,9 @@ theme = "anatole"
   url = "/about/"
 
 [params]
-title = "Jake Logemann"
+title = "LGMN.io"
 author = "Jacob Logemann"
-description = "Hello! Please excuse the mess."
+description = "Just call me Jake"
 profilePicture = "images/profile.png"
 displayMode = "dark"
 doNotLoadAnimations = false # Animations are loaded by default
