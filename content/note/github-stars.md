@@ -101,7 +101,6 @@ _Last time I updated this list, I had 717 starred repos..._ I last checked, usin
 - [containers/skopeo](https://github.com/containers/skopeo) - _Work with remote images registries - retrieving information, images, signing content_
 - [coredns/coredns](https://github.com/coredns/coredns) - _CoreDNS is a DNS server that chains plugins_
 - [craigcabrey/luminance](https://github.com/craigcabrey/luminance) - _A Philips Hue client for Linux written in Python and GTK+._
-- [creasty/dotfiles](https://github.com/creasty/dotfiles) - _Harder, Better, Faster, Stronger ― A powerful development environment for full-stack engineers_
 - [cristianoliveira/funzzy](https://github.com/cristianoliveira/funzzy) - _Yet another fancy watcher. (Rust)_
 - [cstrahan/tree-sitter-nix](https://github.com/cstrahan/tree-sitter-nix) - _Nix grammar for tree-sitter_
 - [d4l3k/go-pry](https://github.com/d4l3k/go-pry) - _An interactive REPL for Go that allows you to drop into your code at any point._
@@ -221,7 +220,6 @@ _Last time I updated this list, I had 717 starred repos..._ I last checked, usin
 - [ivanceras/diwata](https://github.com/ivanceras/diwata) - _A user-friendly database interface_
 - [jakedeichert/mask](https://github.com/jakedeichert/mask) - _🎭 A CLI task runner defined by a simple markdown file_
 - [JakeLogemann/bspwmrc](https://github.com/JakeLogemann/bspwmrc) - _BSPWM Config_
-- [JakeLogemann/dotfiles](https://github.com/JakeLogemann/dotfiles) - _Just dotfiles, stored for posterity._
 - [JakeLogemann/terraform-modules](https://github.com/JakeLogemann/terraform-modules) - _Useful modules for terraform infrastructure._
 - [JakeLogemann/whoisit](https://github.com/JakeLogemann/whoisit) - _little Rust "WHOIS" tool_
 - [JakobGM/astrality](https://github.com/JakobGM/astrality) - _Astrality - A modular and dynamic configuration file manager _
@@ -229,11 +227,9 @@ _Last time I updated this list, I had 717 starred repos..._ I last checked, usin
 - [jbranchaud/til](https://github.com/jbranchaud/til) - _:memo: Today I Learned_
 - [jedisct1/edgedns](https://github.com/jedisct1/edgedns) - _A high performance DNS cache designed for Content Delivery Networks_
 - [JelteF/derive_more](https://github.com/JelteF/derive_more) - _Some more derive(Trait) options_
-- [jessfraz/dotfiles](https://github.com/jessfraz/dotfiles) - _My dotfiles. Buyer beware ;)_
 - [jmdugan/blocklists](https://github.com/jmdugan/blocklists) - _Shared lists of problem domains people may want to block with hosts files_
 - [joyent/statemap](https://github.com/joyent/statemap) - _Software for rendering statemaps_
 - [jpeddicord/askalono](https://github.com/jpeddicord/askalono) - _A tool & library to detect open source licenses from texts_
-- [jpooler/dotfiles](https://github.com/jpooler/dotfiles) - _dotfiles_
 - [jsfiddle/togetherjs](https://github.com/jsfiddle/togetherjs) - _A service for your website that makes it surprisingly easy to collaborate in real-time._
 - [jwiegley/nix-config](https://github.com/jwiegley/nix-config) - _My local Nix configuration_
 - [k3s-io/k3s](https://github.com/k3s-io/k3s) - _Lightweight Kubernetes_
@@ -419,7 +415,6 @@ _Last time I updated this list, I had 717 starred repos..._ I last checked, usin
 - [ranger/ranger](https://github.com/ranger/ranger) - _A VIM-inspired filemanager for the console_
 - [raphlinus/pulldown-cmark](https://github.com/raphlinus/pulldown-cmark) - _null_
 - [rapid7/metasploit-framework](https://github.com/rapid7/metasploit-framework) - _Metasploit Framework_
-- [rasendubi/dotfiles](https://github.com/rasendubi/dotfiles) - _My dotfiles_
 - [raytran/protochess](https://github.com/raytran/protochess) - _Online multiplayer chess website that lets you build custom pieces/boards. Written in Svelte + Rust._
 - [RazrFalcon/resvg](https://github.com/RazrFalcon/resvg) - _An SVG rendering library._
 - [rbaron/awesomenes](https://github.com/rbaron/awesomenes) - _🎮 A NES emulator written in Go_
@@ -575,7 +570,6 @@ _Last time I updated this list, I had 717 starred repos..._ I last checked, usin
 - [Wazzaps/jqed](https://github.com/Wazzaps/jqed) - _json interactive stream editor (jq + up) - for Linux and MacOS_
 - [webview/webview](https://github.com/webview/webview) - _Tiny cross-platform webview library for C/C++/Golang. Uses WebKit (Gtk/Cocoa) and Edge (Windows)_
 - [wesnoth/wesnoth](https://github.com/wesnoth/wesnoth) - _An open source, turn-based strategy game with a high fantasy theme._
-- [wincent/wincent](https://github.com/wincent/wincent) - _💾 Dot-files_
 - [WireGuard/wireguard-rs](https://github.com/WireGuard/wireguard-rs) - _Mirror only. Official repository is at https://git.zx2c4.com/wireguard-rs_
 - [wisespace-io/u2f-rs](https://github.com/wisespace-io/u2f-rs) - _Rust FIDO U2F Library_
 - [withoutboats/romio](https://github.com/withoutboats/romio) - _asynchronous networking primitives_

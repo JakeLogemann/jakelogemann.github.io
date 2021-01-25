@@ -16,10 +16,6 @@ As the number of commands I use and need to remember continually grows it
 is hard to keep track of, and perhaps my attempt to organize it for myself
 will help someone else in the future.
 
-## Where are they?
-1. [dotfiles][] is the main repository for my configurations. 
-2. [dotfiles.nvim][] contains my [NeoVim][] configuration _(mostly in [Lua][])_.
-
 ## What tools do you use most?
 - **[`alacritty`]** is **fast**, **cross-platform**, terminal emulator, writen in [Rust]. Runs on BSD, Linux, Windows, and even ARM-devices.
 - **[`bat`]** "Next-generation" replacement for [`cat`]! Very fast, minimal resource usage. Written in [Rust]. Has pretty colors without any extra effort.
@@ -39,6 +35,17 @@ will help someone else in the future.
 - **[`terraform`]** is the nicest, laziest way to manage your cloud infrastructure across multiple providers (like [DigitalOcean]!).
 - **[`tmux-thumbs`]** is a great way to copy&paste things in [`tmux`]. Written in [Rust].
 - **[`tmux`]** is a terminal multiplexer. Useful for peristing terminal applications (such as [`ncspot`]) while doing other things. 
+
+## Where are they?
+1. [dotfiles][] is the main repository for my configurations. 
+2. [dotfiles.nvim][] contains my [NeoVim][] configuration _(mostly in [Lua][])_.
+
+## Other interesting dotfiles
+- [@wincent](https://github.com/wincent/wincent) - _💾 Dot-files_
+- [@creasty](https://github.com/creasty/dotfiles) - _Harder, Better, Faster, Stronger ― A powerful development environment for full-stack engineers_
+- [@jessfraz](https://github.com/jessfraz/dotfiles) - _My dotfiles. Buyer beware ;)_
+- [@jpooler](https://github.com/jpooler/dotfiles) - _dotfiles_
+- [@rasendubi](https://github.com/rasendubi/dotfiles) - _My dotfiles_
 
 [DigitalOcean]: https://m.do.co/c/7201eed99612
 [Lua]: https://www.lua.org

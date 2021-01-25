@@ -43,3 +43,4 @@ _**Note**: The original ["Awesome"] list can be found [here]["Awesome"]
 - [iptables-essentials](https://github.com/trimstray/iptables-essentials) - _Iptables Essentials: Common Firewall Rules and Commands._
 - [not-yet-awesome-rust](https://github.com/not-yet-awesome-rust/not-yet-awesome-rust) - _A curated list of Rust code and resources that do NOT exist yet, but would be beneficial to the Rust community._
 - [patterns](https://github.com/rust-unofficial/patterns) - _A catalogue of Rust design patterns, anti-patterns and idioms_
+- [vim-galore](https://github.com/mhinz/vim-galore) - _:mortar_board: All things Vim!_
