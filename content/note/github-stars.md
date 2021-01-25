@@ -1,0 +1,314 @@
+---
+author: "Jake"
+title: "My GitHub Stars"
+date: "2021-01-25"
+description: "Which repos have I starred?"
+tags: ["github", "generated"]
+---
+
+_Last time I updated this list, I had 658 starred repos..._
+
+I last checked, using an automated script at exactly `Mon Jan 25 04:44:57 PM EST 2021`
+
+<!--more-->
+
+- [actions-rs/audit-check](https://github.com/actions-rs/audit-check) - _🛡️ GitHub Action for security audits_
+- [actions-rs/grcov](https://github.com/actions-rs/grcov) - _📈 GitHub Action for code coverage reporting with grcov_
+- [actions-rs/meta](https://github.com/actions-rs/meta) - _🦀 GitHub Actions for Rust - recipes, discussions, questions and ideas_
+- [actix/examples](https://github.com/actix/examples) - _Community showcase and examples of Actix ecosystem usage._
+- [aelgohar/rusty-connect4](https://github.com/aelgohar/rusty-connect4) - _A full-stack application written completely in Rust._
+- [agherzan/meta-raspberrypi](https://github.com/agherzan/meta-raspberrypi) - _Yocto BSP layer for the Raspberry Pi boards_
+- [ajs124/NixDroid](https://github.com/ajs124/NixDroid) - _building aosp roms (e.g. LineageOS) with nix. because why not?_
+- [aleshaleksey/TGWM](https://github.com/aleshaleksey/TGWM) - _A personal etude into rust software (RPG<-it's more fun to debug) development: Tales of the Great White Moose_
+- [alexcrichton/proc-macro2](https://github.com/alexcrichton/proc-macro2) - _null_
+- [algorithm-visualizer/algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) - _:fireworks:Interactive Online Platform that Visualizes Algorithms from Code_
+- [Aloxaf/silicon](https://github.com/Aloxaf/silicon) - _Create beautiful image of your source code._
+- [amethyst/shotcaller](https://github.com/amethyst/shotcaller) - _A moddable RTS/MOBA game made with bracket-lib and minigene._
+- [amethyst/space-menace](https://github.com/amethyst/space-menace) - _An action 2D platformer made with Amethyst game engine_
+- [antoyo/titanium](https://github.com/antoyo/titanium) - _A keyboard-driven web browser written in Rust_
+- [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - _A sandbox tower defense game_
+- [argoproj/argo-events](https://github.com/argoproj/argo-events) - _Event-driven workflow automation framework_
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) - _ArgoProj Helm Charts_
+- [argoproj/argo](https://github.com/argoproj/argo) - _Argo Workflows: Get stuff done with Kubernetes._
+- [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts) - _Progressive Delivery for Kubernetes_
+- [aristocratos/bpytop](https://github.com/aristocratos/bpytop) - _Linux/OSX/FreeBSD resource monitor_
+- [arkime/arkime](https://github.com/arkime/arkime) - _Arkime (formerly Moloch) is an open source, large scale, full packet capturing, indexing, and database system._
+- [astrit/css.gg](https://github.com/astrit/css.gg) - _700+ Pure CSS, SVG & Figma UI Icons Available in SVG Sprite, styled-components, NPM & API_
+- [async-rs/async-std](https://github.com/async-rs/async-std) - _Async version of the Rust standard library_
+- [Atmosphere-NX/Atmosphere](https://github.com/Atmosphere-NX/Atmosphere) - _Atmosphère is a work-in-progress customized firmware for the Nintendo Switch._
+- [avelino/awesome-go](https://github.com/avelino/awesome-go) - _A curated list of awesome Go frameworks, libraries and software_
+- [bansal-io/pattern.css](https://github.com/bansal-io/pattern.css) - _CSS only library to fill empty background with beautiful patterns._
+- [Biont/sway-launcher-desktop](https://github.com/Biont/sway-launcher-desktop) - _TUI Application launcher with Desktop Entry support. Made for SwayWM, but runs anywhere_
+- [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack) - _A platform to create documentation/wiki content built with PHP & Laravel_
+- [brave/brave-browser](https://github.com/brave/brave-browser) - _Next generation Brave browser for Android, Linux, macOS, Windows._
+- [BurntSushi/imdb-rename](https://github.com/BurntSushi/imdb-rename) - _A command line tool to rename media files based on titles from IMDb._
+- [BurntSushi/xsv](https://github.com/BurntSushi/xsv) - _A fast CSV command line toolkit written in Rust._
+- [c9s/vikube.vim](https://github.com/c9s/vikube.vim) - _Operating Kubernetes Cluster from Vim, in Vim_
+- [casey/just](https://github.com/casey/just) - _🤖 Just a command runner_
+- [c-bata/go-prompt](https://github.com/c-bata/go-prompt) - _Building powerful interactive prompts in Go, inspired by python-prompt-toolkit._
+- [CCOSTAN/Home-AssistantConfig](https://github.com/CCOSTAN/Home-AssistantConfig) - _:house: Home Assistant configuration & Documentation for my Smart House.  Write-ups, videos, part lists, and links throughout. Be sure to :star: it. Updated FREQUENTLY!_
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - _A powerful little TUI framework 🏗_
+- [chef/bento](https://github.com/chef/bento) - _Packer templates for building minimal Vagrant baseboxes for multiple platforms_
+- [chronotope/chrono](https://github.com/chronotope/chrono) - _Date and time library for Rust_
+- [clap-rs/clap](https://github.com/clap-rs/clap) - _A full featured, fast Command Line Argument Parser for Rust_
+- [clux/controller-rs](https://github.com/clux/controller-rs) - _A kubernetes example controller_
+- [clux/kube-rs](https://github.com/clux/kube-rs) - _kubernetes client and futures controller runtime_
+- [containerd/containerd](https://github.com/containerd/containerd) - _An open and reliable container runtime_
+- [containers/podman](https://github.com/containers/podman) - _Podman: A tool for managing OCI containers and pods_
+- [creasty/dotfiles](https://github.com/creasty/dotfiles) - _Harder, Better, Faster, Stronger ― A powerful development environment for full-stack engineers_
+- [daa84/neovim-gtk](https://github.com/daa84/neovim-gtk) - _gtk ui for neovim_
+- [daboross/fern](https://github.com/daboross/fern) - _Simple, efficient logging for Rust_
+- [dandavison/delta](https://github.com/dandavison/delta) - _A viewer for git and diff output_
+- [DanielKeep/tlborm](https://github.com/DanielKeep/tlborm) - _The Little Book of Rust Macros_
+- [dani-garcia/bitwarden_rs](https://github.com/dani-garcia/bitwarden_rs) - _Unofficial Bitwarden compatible server written in Rust_
+- [dan-t/rusty-tags](https://github.com/dan-t/rusty-tags) - _Create ctags/etags for a cargo project_
+- [databricks/click](https://github.com/databricks/click) - _The "Command Line Interactive Controller for Kubernetes"_
+- [databurn-in/PrivacyBreacher](https://github.com/databurn-in/PrivacyBreacher) - _an app built to showcase the privacy issues in Android operating system_
+- [delucks/cli.fan](https://github.com/delucks/cli.fan) - _Blog about notable commandline tools_
+- [denisidoro/navi](https://github.com/denisidoro/navi) - _An interactive cheatsheet tool for the command-line and application launchers_
+- [denoland/deno](https://github.com/denoland/deno) - _A secure JavaScript and TypeScript runtime_
+- [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - _🤖 The core logic behind Dependabot's update PR creation, and the public issue tracker for all things Dependabot_
+- [dependabot/dependabot-script](https://github.com/dependabot/dependabot-script) - _A simple script that demonstrates how to use Dependabot Core_
+- [derailed/k9s](https://github.com/derailed/k9s) - _🐶 Kubernetes CLI To Manage Your Clusters In Style!_
+- [dev-yuk/dev-yuk.github.io](https://github.com/dev-yuk/dev-yuk.github.io) - _null_
+- [diem/diem](https://github.com/diem/diem) - _Diem’s mission is to build a trusted and innovative financial network that empowers people and businesses around the world._
+- [docker-library/buildpack-deps](https://github.com/docker-library/buildpack-deps) - _null_
+- [dracula/firefox](https://github.com/dracula/firefox) - _🧛🏻‍♂️ Dark theme for Firefox_
+- [dtolnay/anyhow](https://github.com/dtolnay/anyhow) - _Flexible concrete Error type built on std::error::Error_
+- [dtolnay/syn](https://github.com/dtolnay/syn) - _Parser for Rust source code_
+- [dvorka/hstr](https://github.com/dvorka/hstr) - _bash and zsh shell history suggest box - easily view, navigate, search and manage your command history._
+- [edent/SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - _Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos_
+- [emilk/egui](https://github.com/emilk/egui) - _egui: an easy-to-use immediate mode GUI in pure Rust_
+- [extrawurst/gitui](https://github.com/extrawurst/gitui) - _Blazing 💥 fast terminal-ui for git written in rust 🦀_
+- [feather-rs/feather](https://github.com/feather-rs/feather) - _A Minecraft server implementation in Rust_
+- [fluent/fluentd](https://github.com/fluent/fluentd) - _Fluentd: Unified Logging Layer (project under CNCF)_
+- [franzejr/best-ruby](https://github.com/franzejr/best-ruby) - _Ruby Tricks, Idiomatic Ruby, Refactoring and Best Practices_
+- [freebsd/freebsd-ports](https://github.com/freebsd/freebsd-ports) - _FreeBSD ports tree (read-only mirror)_
+- [garkimasera/rusted-ruins](https://github.com/garkimasera/rusted-ruins) - _Extensible open world rogue like game with pixel art. Players can explore the wilderness and ruins._
+- [google/clusterfuzz](https://github.com/google/clusterfuzz) - _Scalable fuzzing infrastructure._
+- [google/docsy](https://github.com/google/docsy) - _A set of Hugo doc templates for launching open source content._
+- [google/json5format](https://github.com/google/json5format) - _JSON5 (a.k.a., "JSON for Humans") formatter that preserves contextual comments_
+- [google/nixery](https://github.com/google/nixery) - _Container registry which transparently builds images using the Nix package manager_
+- [google/rerast](https://github.com/google/rerast) - _A tool for transforming Rust code using rules_
+- [go-shiori/shiori](https://github.com/go-shiori/shiori) - _Simple bookmark manager built with Go_
+- [gotham-rs/gotham](https://github.com/gotham-rs/gotham) - _A flexible web framework that promotes stability, safety, security and speed._
+- [gothinkster/realworld](https://github.com/gothinkster/realworld) - _"The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅_
+- [graphql-rust/juniper](https://github.com/graphql-rust/juniper) - _GraphQL server library for Rust_
+- [greshake/i3status-rust](https://github.com/greshake/i3status-rust) - _Very resourcefriendly and feature-rich replacement for i3status, written in pure Rust_
+- [gsquire/sendgrid-rs](https://github.com/gsquire/sendgrid-rs) - _Unofficial Rust library for the SendGrid API_
+- [hak5/sharkjack-payloads](https://github.com/hak5/sharkjack-payloads) - _The Official Hak5 Shark Jack Payload Repository_
+- [hashicorp/terraform-config-inspect](https://github.com/hashicorp/terraform-config-inspect) - _A helper library for shallow inspection of Terraform configurations_
+- [hashicorp/vagrant](https://github.com/hashicorp/vagrant) - _Vagrant is a tool for building and distributing development environments._
+- [hassio-addons/addon-ssh](https://github.com/hassio-addons/addon-ssh) - _SSH & Web Terminal - Home Assistant Community Add-ons_
+- [hassio-addons/repository](https://github.com/hassio-addons/repository) - _Home Assistant Community Add-ons_
+- [hatoo/cargo-snippet](https://github.com/hatoo/cargo-snippet) - _A snippet extrator for competitive programmers_
+- [helm/charts](https://github.com/helm/charts) - _⚠️(OBSOLETE) Curated applications for Kubernetes_
+- [HeroicKatora/oxide-auth](https://github.com/HeroicKatora/oxide-auth) - _A OAuth2 server library, for use in combination with actix or other frontends, featuring a set of configurable and pluggable backends._
+- [hjacobs/kube-web-view](https://github.com/hjacobs/kube-web-view) - _Mirror of Kubernetes Web View: allows to list and view all Kubernetes resources (incl. CRDs) with permalink-friendly URLs in a plain-HTML frontend_
+- [home-assistant/operating-system](https://github.com/home-assistant/operating-system) - _:beginner: Home Assistant Operating System_
+- [home-assistant/supervised-installer](https://github.com/home-assistant/supervised-installer) - _Installer for a generic Linux system_
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - _👽 A free, fast and beautiful API request builder used by 120k+ developers. https://hoppscotch.io_
+- [http-rs/surf](https://github.com/http-rs/surf) - _Fast and friendly HTTP client framework for async Rust_
+- [http-rs/tide](https://github.com/http-rs/tide) - _Fast and friendly HTTP server framework for async Rust_
+- [hyperium/tonic](https://github.com/hyperium/tonic) - _A native gRPC client & server implementation with async/await support._
+- [ibaaj/awesome-OpenSourcePhotography](https://github.com/ibaaj/awesome-OpenSourcePhotography) - _A list of awesome free open source software & libraries for photography. Also tools for video._
+- [ipfs-shipyard/ipfs-companion](https://github.com/ipfs-shipyard/ipfs-companion) - _Browser extension that simplifies access to IPFS resources on the web_
+- [ipfs-shipyard/ipfs-desktop](https://github.com/ipfs-shipyard/ipfs-desktop) - _An unobtrusive and user-friendly desktop application for IPFS on Windows, Mac and Linux. _
+- [Iron-E/nvim-libmodal](https://github.com/Iron-E/nvim-libmodal) - _Create new "modes" for Neovim!_
+- [jakedeichert/mask](https://github.com/jakedeichert/mask) - _🎭 A CLI task runner defined by a simple markdown file_
+- [JakeLogemann/bspwmrc](https://github.com/JakeLogemann/bspwmrc) - _BSPWM Config_
+- [JakeLogemann/dotfiles](https://github.com/JakeLogemann/dotfiles) - _Just dotfiles, stored for posterity._
+- [JakeLogemann/dotfiles.nvim](https://github.com/JakeLogemann/dotfiles.nvim) - _null_
+- [JakeLogemann/terraform-modules](https://github.com/JakeLogemann/terraform-modules) - _Useful modules for terraform infrastructure._
+- [JakeLogemann/whoisit](https://github.com/JakeLogemann/whoisit) - _little Rust "WHOIS" tool_
+- [JelteF/derive_more](https://github.com/JelteF/derive_more) - _Some more derive(Trait) options_
+- [joyent/statemap](https://github.com/joyent/statemap) - _Software for rendering statemaps_
+- [jpooler/dotfiles](https://github.com/jpooler/dotfiles) - _dotfiles_
+- [jsfiddle/togetherjs](https://github.com/jsfiddle/togetherjs) - _A service for your website that makes it surprisingly easy to collaborate in real-time._
+- [junegunn/vim-plug](https://github.com/junegunn/vim-plug) - _:hibiscus: Minimalist Vim Plugin Manager_
+- [kanaka/mal](https://github.com/kanaka/mal) - _mal - Make a Lisp_
+- [Kapeli/Dash-User-Contributions](https://github.com/Kapeli/Dash-User-Contributions) - _Dash repo of user contributed docsets_
+- [Kapeli/feeds](https://github.com/Kapeli/feeds) - _Collection of Dash docset feeds_
+- [kataras/neffos](https://github.com/kataras/neffos) - _A modern, fast and scalable websocket framework with elegant API written in Go_
+- [Keats/validator](https://github.com/Keats/validator) - _Simple validation for Rust structs_
+- [Kethku/neovide](https://github.com/Kethku/neovide) - _No Nonsense Neovim Client in Rust_
+- [keybase/bot-sshca](https://github.com/keybase/bot-sshca) - _A chat bot that can manage your team's SSH accounts_
+- [keybase/go-keybase-chat-bot](https://github.com/keybase/go-keybase-chat-bot) - _Official Go Keybase chat bot SDK_
+- [kpcyrd/sn0int](https://github.com/kpcyrd/sn0int) - _Semi-automatic OSINT framework and package manager_
+- [kubernetes/dashboard](https://github.com/kubernetes/dashboard) - _General-purpose web UI for Kubernetes clusters_
+- [kubernetes-sigs/apiserver-builder-alpha](https://github.com/kubernetes-sigs/apiserver-builder-alpha) - _apiserver-builder-alpha implements libraries and tools to quickly and easily build Kubernetes apiservers/controllers to support custom resource types based on APIServer Aggregation_
+- [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp) - _The GCP provider implementation for Cluster API_
+- [kubernetes-sigs/krew](https://github.com/kubernetes-sigs/krew) - _📦 Find and install kubectl plugins_
+- [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize) - _Customization of kubernetes YAML configurations_
+- [kubernetes-sigs/service-catalog](https://github.com/kubernetes-sigs/service-catalog) - _Consume services in Kubernetes using the Open Service Broker API_
+- [launchbadge/sqlx](https://github.com/launchbadge/sqlx) - _🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL._
+- [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - _👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file._
+- [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy) - _🐀 Building a federated alternative to reddit in rust_
+- [lensapp/lens](https://github.com/lensapp/lens) - _Lens - The Kubernetes IDE_
+- [linebender/druid](https://github.com/linebender/druid) - _A data-first Rust-native UI design toolkit. _
+- [liona24/wasm-tetris](https://github.com/liona24/wasm-tetris) - _A simple tetris clone using Rust and WebAssembly_
+- [lizhuohua/linux-kernel-module-rust](https://github.com/lizhuohua/linux-kernel-module-rust) - _null_
+- [lobsters/lobsters](https://github.com/lobsters/lobsters) - _Computing-focused community centered around link aggregation and discussion_
+- [lotabout/rargs](https://github.com/lotabout/rargs) - _xargs + awk with pattern matching support. `ls *.bak | rargs -p '(.*)\.bak' mv {0} {1}`_
+- [mandx/mungye](https://github.com/mandx/mungye) - _Merge JSONs/YAMLs together_
+- [marionebl/svg-term-cli](https://github.com/marionebl/svg-term-cli) - _Share terminal sessions via SVG and CSS_
+- [marlonrichert/zsh-autocomplete](https://github.com/marlonrichert/zsh-autocomplete) - _🤖 Real-time type-ahead completion for Zsh. Asynchronous find-as-you-type autocompletion._
+- [matklad/cargo-xtask](https://github.com/matklad/cargo-xtask) - _null_
+- [matomo-org/matomo](https://github.com/matomo-org/matomo) - _Liberating Web Analytics. Star us on Github? +1. Matomo is the leading open alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from websites, apps & the IoT and visualise this data and extract insights. Privacy is built-in. We love Pull Requests! _
+- [matrix-org/synapse](https://github.com/matrix-org/synapse) - _Synapse: Matrix reference homeserver_
+- [matthiaskrgr/cargo-cache](https://github.com/matthiaskrgr/cargo-cache) - _manage cargo cache (${CARGO_HOME}, ~/.cargo/), print sizes of dirs and remove dirs selectively_
+- [mcorbin/meuse](https://github.com/mcorbin/meuse) - _A private Cargo crate registry, for Rust_
+- [MicrosoftDocs/live-share](https://github.com/MicrosoftDocs/live-share) - _Real-time collaborative development from the comfort of your favorite tools_
+- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - _Windows system utilities to maximize productivity_
+- [microsoft/terminal](https://github.com/microsoft/terminal) - _The new Windows Terminal and the original Windows console host, all in the same place!_
+- [milliams/plotlib](https://github.com/milliams/plotlib) - _Data plotting library for Rust_
+- [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - _:art: Diagram as Code for prototyping cloud system architectures_
+- [minio/minsql](https://github.com/minio/minsql) - _High-performance log search engine._
+- [mitsuhiko/better-panic](https://github.com/mitsuhiko/better-panic) - _A python inspired panic handler for rust_
+- [mmastrac/stylus](https://github.com/mmastrac/stylus) - _Lightweight status page for home infrastructure_
+- [mozilla/authenticator-rs](https://github.com/mozilla/authenticator-rs) - _Rust library to interact with Security Keys, used by Firefox_
+- [mozilla/fathom](https://github.com/mozilla/fathom) - _A framework for extracting meaning from web pages_
+- [mozilla-mobile/android-components](https://github.com/mozilla-mobile/android-components) - _A collection of Android libraries to build browsers or browser-like applications._
+- [mozilla-mobile/fenix](https://github.com/mozilla-mobile/fenix) - _Firefox for Android_
+- [mozilla/neqo](https://github.com/mozilla/neqo) - _null_
+- [mozilla/sccache](https://github.com/mozilla/sccache) - _sccache is ccache with cloud storage_
+- [mozilla/send](https://github.com/mozilla/send) - _Simple, private file sharing from the makers of Firefox_
+- [mozilla/sops](https://github.com/mozilla/sops) - _Simple and flexible tool for managing secrets_
+- [mozilla/ssh_scan](https://github.com/mozilla/ssh_scan) - _A prototype SSH configuration and policy scanner (Blog: https://mozilla.github.io/ssh_scan/)_
+- [mre/cargo-inspect](https://github.com/mre/cargo-inspect) - _Pssst!... see what Rust is doing behind the curtains 🕵🤫_
+- [natebosch/vim-lsc](https://github.com/natebosch/vim-lsc) - _A vim plugin for communicating with a language server_
+- [neoclide/coc-lists](https://github.com/neoclide/coc-lists) - _Common lists for coc.nvim_
+- [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim) - _Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers._
+- [neon-bindings/neon](https://github.com/neon-bindings/neon) - _Rust bindings for writing safe and fast native Node.js modules._
+- [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) - _Quickstart configurations for the Nvim LSP client_
+- [nix-community/awesome-nix](https://github.com/nix-community/awesome-nix) - _😎 A curated list of the best resources in the Nix community [maintainer=@zimbatm]_
+- [nix-community/nixpkgs-fmt](https://github.com/nix-community/nixpkgs-fmt) - _Nix code formatter for nixpkgs [maintainer=@zimbatm]_
+- [nmattia/naersk](https://github.com/nmattia/naersk) - _Build rust crates in Nix. No configuration, no code generation, no IFD. Sandbox friendly._
+- [ntop/ntopng](https://github.com/ntop/ntopng) - _Web-based Traffic and Security Network Traffic Monitoring_
+- [nurdism/neko](https://github.com/nurdism/neko) - _A self hosted virtual browser (rabb.it clone) that runs in docker._
+- [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) - _Find, Filter, Preview, Pick. All lua, all the time._
+- [o2sh/onefetch](https://github.com/o2sh/onefetch) - _Git repository summary on your terminal_
+- [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) - _A reverse proxy that provides authentication with Google, Github or other providers._
+- [OpenGenus/cosmos](https://github.com/OpenGenus/cosmos) - _| Contribute toward Hacktoberfest and enjoy 🌱 | Algorithms that run our universe | Your personal library of every algorithm and data structure code that you will ever encounter | Ask us anything at our forum |_
+- [open-policy-agent/opa](https://github.com/open-policy-agent/opa) - _An open source, general-purpose policy engine._
+- [operator-framework/awesome-operators](https://github.com/operator-framework/awesome-operators) - _A resource tracking a number of Operators out in the wild._
+- [orf/gping](https://github.com/orf/gping) - _Ping, but with a graph_
+- [orium/rpds](https://github.com/orium/rpds) - _Rust Persistent Data Structures_
+- [ornicar/lila](https://github.com/ornicar/lila) - _♞ lichess.org: the forever free, adless and open source chess server ♞_
+- [ossu/computer-science](https://github.com/ossu/computer-science) - _:mortar_board: Path to a free self-taught education in Computer Science!_
+- [ozkriff/zemeroth](https://github.com/ozkriff/zemeroth) - _😠⚔️😈 A minimalistic 2D turn-based tactical game in Rust_
+- [PaddiM8/kalk](https://github.com/PaddiM8/kalk) - _A calculator/expression evaluator written in rust that supports variables and functions._
+- [Peltoche/lsd](https://github.com/Peltoche/lsd) - _The next gen ls command_
+- [petgraph/petgraph](https://github.com/petgraph/petgraph) - _Graph data structure library for Rust._
+- [polybar/polybar](https://github.com/polybar/polybar) - _A fast and easy-to-use status bar_
+- [pop-os/popsicle](https://github.com/pop-os/popsicle) - _Multiple USB File Flasher_
+- [portainer/portainer-k8s](https://github.com/portainer/portainer-k8s) - _Deploy Portainer inside k8s_
+- [prometheus/prometheus](https://github.com/prometheus/prometheus) - _The Prometheus monitoring system and time series database._
+- [psliwka/vim-smoothie](https://github.com/psliwka/vim-smoothie) - _Smooth scrolling for Vim done right🥤_
+- [pyros2097/rust-embed](https://github.com/pyros2097/rust-embed) - _Rust Macro which loads files into the rust binary at compile time during release and loads the file from the fs during dev._
+- [qarmin/czkawka](https://github.com/qarmin/czkawka) - _Multi functional app to find duplicates, empty folders, similar images etc._
+- [rabite0/hunter](https://github.com/rabite0/hunter) - _The fastest file manager in the galaxy!_
+- [rails/rails](https://github.com/rails/rails) - _Ruby on Rails_
+- [ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - _A curated list for awesome kubernetes sources :ship::tada:_
+- [ramosbugs/oauth2-rs](https://github.com/ramosbugs/oauth2-rs) - _Extensible, strongly-typed Rust OAuth2 client library_
+- [rancher/k3os](https://github.com/rancher/k3os) - _Purpose-built OS for Kubernetes, fully managed by Kubernetes._
+- [ranger/ranger](https://github.com/ranger/ranger) - _A VIM-inspired filemanager for the console_
+- [raphlinus/pulldown-cmark](https://github.com/raphlinus/pulldown-cmark) - _null_
+- [raytran/protochess](https://github.com/raytran/protochess) - _Online multiplayer chess website that lets you build custom pieces/boards. Written in Svelte + Rust._
+- [RazrFalcon/resvg](https://github.com/RazrFalcon/resvg) - _An SVG rendering library._
+- [richerarc/saphir](https://github.com/richerarc/saphir) - _Fully async-await http server framework_
+- [ricklamers/gridstudio](https://github.com/ricklamers/gridstudio) - _Grid studio is a web-based application for data science with full integration of open source data science frameworks and languages._
+- [Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui) - _Spotify for the terminal written in Rust 🚀_
+- [rsaarelm/magog](https://github.com/rsaarelm/magog) - _A roguelike game in Rust_
+- [rs-ipfs/rust-ipfs](https://github.com/rs-ipfs/rust-ipfs) - _The InterPlanetary File System (IPFS), implemented in Rust._
+- [rusqlite/rusqlite](https://github.com/rusqlite/rusqlite) - _Ergonomic bindings to SQLite for Rust_
+- [rust-analyzer/rust-analyzer](https://github.com/rust-analyzer/rust-analyzer) - _An experimental Rust compiler front-end for IDEs_
+- [rust-db/barrel](https://github.com/rust-db/barrel) - _🛢 A database schema migration builder for Rust_
+- [rust-dev-tools/cargo-src](https://github.com/rust-dev-tools/cargo-src) - _Semantic code navigation for Rust_
+- [rust-embedded/book](https://github.com/rust-embedded/book) - _Documentation on how to use the Rust Programming Language to develop firmware for bare metal (microcontroller) devices_
+- [rust-embedded/cross](https://github.com/rust-embedded/cross) - _“Zero setup” cross compilation and “cross testing” of Rust crates_
+- [rust-embedded/discovery](https://github.com/rust-embedded/discovery) - _Discover the world of microcontrollers through Rust!_
+- [rust-embedded/embedonomicon](https://github.com/rust-embedded/embedonomicon) - _How to bootstrap support for a no_std target_
+- [rust-embedded/gpio-cdev](https://github.com/rust-embedded/gpio-cdev) - _Rust interface to the Linux GPIO Character Device API (/dev/gpiochip...)_
+- [rust-lang/api-guidelines](https://github.com/rust-lang/api-guidelines) - _Rust API guidelines_
+- [rust-lang/async-book](https://github.com/rust-lang/async-book) - _Asynchronous Programming in Rust_
+- [rust-lang/crater](https://github.com/rust-lang/crater) - _Run experiments across parts of the Rust ecosystem!_
+- [rust-lang/crates.io](https://github.com/rust-lang/crates.io) - _Source code for crates.io_
+- [rust-lang/docs.rs](https://github.com/rust-lang/docs.rs) - _crates.io documentation generator_
+- [rust-lang-nursery/error-chain](https://github.com/rust-lang-nursery/error-chain) - _Error boilerplate for Rust_
+- [rust-lang/rfcbot-rs](https://github.com/rust-lang/rfcbot-rs) - _Coordinates asynchronous decision making on Rust repositories. Status of tracked issues and PRs can be viewed at https://rfcbot.rs._
+- [rust-lang/rustfmt](https://github.com/rust-lang/rustfmt) - _Format Rust code_
+- [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - _:crab: Small exercises to get you used to reading and writing Rust code!_
+- [rust-lang/rust.vim](https://github.com/rust-lang/rust.vim) - _Vim configuration for Rust._
+- [rust-osdev/bootimage](https://github.com/rust-osdev/bootimage) - _Tool to create bootable disk images from a Rust OS kernel._
+- [rust-rocksdb/rust-rocksdb](https://github.com/rust-rocksdb/rust-rocksdb) - _rust wrapper for rocksdb_
+- [RustSec/advisory-db](https://github.com/RustSec/advisory-db) - _Security advisory database for Rust crates published through crates.io_
+- [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns) - _A catalogue of Rust design patterns, anti-patterns and idioms_
+- [rustwasm/book](https://github.com/rustwasm/book) - _The Rust and WebAssembly Book_
+- [rustwasm/gloo](https://github.com/rustwasm/gloo) - _A modular toolkit for building fast, reliable Web applications and libraries with Rust and Wasm_
+- [rustwasm/rfcs](https://github.com/rustwasm/rfcs) - _The Rust and WebAssembly RFCs_
+- [rustwasm/rustwasm.github.io](https://github.com/rustwasm/rustwasm.github.io) - _Rust and WebAssembly website! 🦀 + 🕸_
+- [rustwasm/rust-webpack-template](https://github.com/rustwasm/rust-webpack-template) - _Kickstart your Rust, WebAssembly, and Webpack project!_
+- [rustwasm/team](https://github.com/rustwasm/team) - _A point of coordination for all things Rust and WebAssembly_
+- [rustwasm/twiggy](https://github.com/rustwasm/twiggy) - _Twiggy🌱 is a code size profiler_
+- [rustwasm/wasm_game_of_life](https://github.com/rustwasm/wasm_game_of_life) - _A Rust and WebAssembly tutorial implementing the Game of Life_
+- [rustwasm/wasm-pack](https://github.com/rustwasm/wasm-pack) - _📦✨ your favorite rust -> wasm workflow tool!_
+- [rust-windowing/android-rs-glue](https://github.com/rust-windowing/android-rs-glue) - _Glue between Rust and Android_
+- [sagiegurari/cargo-make](https://github.com/sagiegurari/cargo-make) - _Rust task runner and build tool._
+- [saschagrunert/kubernix](https://github.com/saschagrunert/kubernix) - _Single dependency Kubernetes clusters for local testing, experimenting and development_
+- [saschagrunert/webapp.rs](https://github.com/saschagrunert/webapp.rs) - _A web application completely written in Rust. 🌍 _
+- [seanmonstar/warp](https://github.com/seanmonstar/warp) - _A super-easy, composable, web server framework for warp speeds._
+- [seed-rs/seed-homepage](https://github.com/seed-rs/seed-homepage) - _Homepage for Seed_
+- [seed-rs/seed](https://github.com/seed-rs/seed) - _A Rust framework for creating web apps_
+- [serde-rs/serde](https://github.com/serde-rs/serde) - _Serialization framework for Rust_
+- [serenity-rs/serenity](https://github.com/serenity-rs/serenity) - _A Rust library for the Discord API._
+- [sfackler/r2d2](https://github.com/sfackler/r2d2) - _A generic connection pool for Rust_
+- [sharkdp/diskus](https://github.com/sharkdp/diskus) - _A minimal, fast alternative to 'du -sh'_
+- [sharkdp/hexyl](https://github.com/sharkdp/hexyl) - _A command-line hex viewer_
+- [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - _A command-line benchmarking tool_
+- [sharkdp/lucid](https://github.com/sharkdp/lucid) - _A simple mock-application for programs that work with child processes_
+- [sharkdp/pastel](https://github.com/sharkdp/pastel) - _A command-line tool to generate, analyze, convert and manipulate colors_
+- [Shougo/dein.vim](https://github.com/Shougo/dein.vim) - _:zap: Dark powered Vim/Neovim plugin manager_
+- [Shougo/echodoc.vim](https://github.com/Shougo/echodoc.vim) - _Print documents in echo area._
+- [skairunner/sky-oni-mods](https://github.com/skairunner/sky-oni-mods) - _Code for Sky's mods for the game Oxygen Not Included._
+- [slog-rs/slog](https://github.com/slog-rs/slog) - _Structured, contextual, extensible, composable logging for Rust_
+- [sminez/penrose](https://github.com/sminez/penrose) - _A library for writing an X11 tiling window manager_
+- [soywod/kronos.vim](https://github.com/soywod/kronos.vim) - _A simple task and time manager. Project moved here:_
+- [spacejam/sled](https://github.com/spacejam/sled) - _the champagne of beta embedded databases_
+- [Spotifyd/spotifyd](https://github.com/Spotifyd/spotifyd) - _A spotify daemon_
+- [sstephenson/bats](https://github.com/sstephenson/bats) - _Bash Automated Testing System_
+- [starship/starship](https://github.com/starship/starship) - _☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!_
+- [svenstaro/miniserve](https://github.com/svenstaro/miniserve) - _🌟 For when you really just want to serve some files over HTTP right now!_
+- [swaywm/sway](https://github.com/swaywm/sway) - _i3-compatible Wayland compositor_
+- [TeXitoi/structopt](https://github.com/TeXitoi/structopt) - _Parse command line arguments by defining a struct._
+- [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) - _ All Algorithms implemented in Rust _
+- [tikv/raft-rs](https://github.com/tikv/raft-rs) - _Raft distributed consensus algorithm implemented in Rust._
+- [tikv/tikv](https://github.com/tikv/tikv) - _Distributed transactional key-value database, originally created to complement TiDB_
+- [timberio/vector](https://github.com/timberio/vector) - _A high-performance observability data pipeline._
+- [tobspr/shapez.io](https://github.com/tobspr/shapez.io) - _shapez.io is an open source base building game inspired by factorio! Available on web & desktop_
+- [tock/libtock-rs](https://github.com/tock/libtock-rs) - _Rust userland library for Tock_
+- [tock/tock](https://github.com/tock/tock) - _A secure embedded operating system for microcontrollers_
+- [tpope/vim-projectionist](https://github.com/tpope/vim-projectionist) - _projectionist.vim: Granular project configuration_
+- [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - _An incremental parsing system for programming tools_
+- [uutils/coreutils](https://github.com/uutils/coreutils) - _Cross-platform Rust rewrite of the GNU coreutils_
+- [valeriansaliou/vigil](https://github.com/valeriansaliou/vigil) - _🚦 Microservices Status Page. Monitors a distributed infrastructure and sends alerts (Slack, SMS, etc.)._
+- [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton) - _Compatibility tool for Steam Play based on Wine and additional components_
+- [vamolessa/verco](https://github.com/vamolessa/verco) - _Simple git/hg tui client focused on keyboard shortcuts_
+- [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - _A new bootable USB solution._
+- [vimwiki/vimwiki](https://github.com/vimwiki/vimwiki) - _Personal Wiki for Vim_
+- [vmchale/tin-summer](https://github.com/vmchale/tin-summer) - _Find build artifacts that are taking up disk space_
+- [vmware-tanzu/octant](https://github.com/vmware-tanzu/octant) - _Highly extensible platform for developers to better understand the complexity of Kubernetes clusters._
+- [void-rs/void](https://github.com/void-rs/void) - _terminal-based personal organizer_
+- [wafflespeanut/paperclip](https://github.com/wafflespeanut/paperclip) - _WIP OpenAPI tooling for Rust._
+- [wasmerio/awesome-wasi](https://github.com/wasmerio/awesome-wasi) - _😎 Curated list of awesome things regarding WebAssembly WASI ecosystem._
+- [Wazzaps/jqed](https://github.com/Wazzaps/jqed) - _json interactive stream editor (jq + up) - for Linux and MacOS_
+- [wesnoth/wesnoth](https://github.com/wesnoth/wesnoth) - _An open source, turn-based strategy game with a high fantasy theme._
+- [WireGuard/wireguard-rs](https://github.com/WireGuard/wireguard-rs) - _Mirror only. Official repository is at https://git.zx2c4.com/wireguard-rs_
+- [wisespace-io/u2f-rs](https://github.com/wisespace-io/u2f-rs) - _Rust FIDO U2F Library_
+- [xd009642/tarpaulin](https://github.com/xd009642/tarpaulin) - _A code coverage tool for Rust projects_
+- [xuu/wasm-tetris](https://github.com/xuu/wasm-tetris) - _Wasm Tetris_
+- [x-way/iptables-tracer](https://github.com/x-way/iptables-tracer) - _Insert trace-points into the running configuration to observe the path of packets through the iptables chains._
+- [Y2Z/monolith](https://github.com/Y2Z/monolith) - _⬛️ CLI tool for saving complete web pages as a single HTML file_
+- [yewstack/yew_router](https://github.com/yewstack/yew_router) - _A routing library for the Yew frontend framework_
+- [yuzu-emu/yuzu](https://github.com/yuzu-emu/yuzu) - _Nintendo Switch Emulator_
+- [zhaojh329/oui](https://github.com/zhaojh329/oui) - _A modern web interface for OpenWrt implemented in vue.js and Lua._
