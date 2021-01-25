@@ -6,7 +6,7 @@ description: "Which repos have I starred?"
 tags: ["github", "generated"]
 ---
 
-_Last time I updated this list, I had  starred repos..._ I last checked, using an automated script on
+_Last time I updated this list, I had 717 starred repos..._ I last checked, using an automated script on
 `2021-01-25`
 
 <!--more-->
