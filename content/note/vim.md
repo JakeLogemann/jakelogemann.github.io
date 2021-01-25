@@ -6,13 +6,11 @@ description: "Plugins, configs, tips & tricks I have known & loved..."
 tags: ["vim"]
 ---
 
-## Awesome VIM/NeoVim Projects
 
-There are **_so_** many VIM plugins out
-there, it can be hard to pick good ones.
-Lucky for you I have a **_bunch_** that
-I've used over time.
+There are **_so_** many VIM/NeoVim projects out there, it can be hard to pick good ones.  Lucky for you I have a **_bunch_** that I've used over time.
 <!--more-->
+
+## Awesome VIM/NeoVim Projects
 
 - [Damian-Conway-s-Vim-Setup](https://github.com/thoughtstream/Damian-Conway-s-Vim-Setup) - _Snapshots of my Vim setup. Open source, but utterly unsupported...and probably dangerous._
 - [LanguageClient-neovim](https://github.com/autozimu/LanguageClient-neovim) - _Language Server Protocol (LSP) support for vim and neovim._
