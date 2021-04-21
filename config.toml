@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "Lgmn.io"
+title = "Jake's Pages"
 theme = "anatole"
 copyright = "Work of Jacob Logemann. All rights reserved."
 enableEmoji = true
@@ -72,7 +72,7 @@ startLevel = 2
 
 
 [params]
-title = "LGMN.io"
+title = "Jake's Pages"
 author = "Jacob Logemann"
 description = "Just call me Jake"
 profilePicture = "images/profile.png"
