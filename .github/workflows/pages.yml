@@ -1,27 +1,31 @@
-name: github pages
+name: Pages
 
 on:
+  workflow_dispatch:
   push:
     branches:
       - master  # Set a branch to deploy
 
 jobs:
-  deploy:
-    runs-on: ubuntu-18.04
+  pages:
+    runs-on: ubuntu-latest
+
+    concurrency:
+      cancel-in-progress: true
+      group: "pages"
+
     steps:
+
       - uses: actions/checkout@v2
         with:
           submodules: true  # Fetch Hugo themes (true OR recursive)
           fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
 
-      - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v2
+      - name: build
+        uses: jakelogemann/images/tools@release
         with:
-          hugo-version: 'latest'
-          extended: true
-
-      - name: Build
-        run: hugo --minify
+          entrypoint: hugo
+          args: --minify
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
